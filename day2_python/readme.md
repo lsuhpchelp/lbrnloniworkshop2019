@@ -1,4 +1,4 @@
-# Scientific Computing using Python
+# Scientific Computing with Python
 Jupyter Notebook using google Colaboratory
 
 * **lbrnloni_bootcamp_python2_2019.pdf**: Slides
